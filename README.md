@@ -1,2 +1,2 @@
-# Method.js
-for Minecraft,Bedrock,Script API Method Tool
+# MCMethod.js
+add entry file to <br>`import './MCMethod.js';`
